@@ -1,6 +1,6 @@
-# This is the .py file for the 1st project of Team 2
-# Contributers: Ty Petty, Christian Sorenson, Hector Casablanca, Ainsley Rossiter, Brady Taylor, Steven Brown
-# Created on 11/18/23
+# This is the .py file for controlling and editing the excel files in this repository
+# Contributers: Ty Petty
+# Created on 11/17/23
 
 '''
 This application is to import the old excel file keeping track of student information
